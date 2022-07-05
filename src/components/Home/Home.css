@@ -1,0 +1,11 @@
+.Home {
+  margin: 60px;
+  justify-content: center;
+  max-height: 80vh;
+  overflow: hidden;
+}
+.addBtn {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
